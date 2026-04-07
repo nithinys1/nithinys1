@@ -1,6 +1,6 @@
 # Hi, I'm Nithin 👋 
 
-![AI Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=GenAI%20%26%20Agentic%20AI%20Engineer&fontSize=40)
+![Header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=GenAI%20%26%20Agentic%20AI%20Engineer&fontSize=40&animation=fadeIn)
 
 ### 🚀 AI Engineer | GenAI & Agentic Systems Specialist | ML | Data science
 **3+ Years of Experience** in architecting scalable AI solutions, specializing in **Generative AI**, **Agentic Workflows**, and **Robust MLOps Pipelines**.
