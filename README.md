@@ -1,10 +1,10 @@
 # Hi, I'm Nithin 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=GenAI%20%26%20Agentic%20AI%20Engineer&fontSize=40"  alt="Header" />
+  <img src="https://raw.githubusercontent.com/nithinys1/nithinys1/main/header.png" onerror="this.src='https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=GenAI%20%26%20Agentic%20AI%20Engineer&fontSize=40&animation=fadeIn'" alt="Header" width="100%" />
 </p>
 
-### 🚀 AI Engineer | GenAI & Agentic Systems Specialist | ML | Data Science
+### 🚀 AI Engineer | GenAI & Agentic Systems Specialist
 **3+ Years of Experience** in architecting scalable AI solutions, specializing in **Generative AI**, **Agentic Workflows**, and **Robust MLOps Pipelines**.
 
 ---
